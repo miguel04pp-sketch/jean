@@ -1,0 +1,1 @@
+Este trabajo es un programa en Python orientado a objetos que simula un sistema de gestión de personas mediante un menú interactivo en consola. A continuación te lo describo de forma clara y ordenada, como para un informe o exposición
